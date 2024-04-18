@@ -1,0 +1,27 @@
+body{
+  background: rgb(230, 225, 225);
+   margin:10%;
+}
+
+.container{
+
+ display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+   text-align: center;
+}
+
+.p{
+    margin: auto;
+    text-align: center !important;
+}
+
+h1{
+    font-size: 80px;
+}
+
+.cont{
+    margin-top:60px
+}
+
